@@ -1,0 +1,57 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+img{
+    width: 300;
+    height: 300;
+    border-radius:150px;
+    padding: 15px;
+}
+header{
+    width: 970px;
+    display: flex;
+    background-color: #109DFA;
+    padding: 15px;
+    
+    
+}
+article{
+    width: 600px;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+    height: 780.63px;
+}
+
+aside{
+    width: 400px;
+    background-color: #6DC36D;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+    height: 780.63px;
+   
+}
+
+
+#p{
+    font-size: small;
+}
+
+#profesional, #academica{
+    background-color: #109DFA;
+}
+
+#texto{
+    display: none;
+}
+
+#boton{
+    width: 100px;
+    height: 50px;
+    color: aliceblue;
+    background-color: #6DC36D;
+    border-radius: 40px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
